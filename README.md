@@ -16,3 +16,5 @@ https://github.com/Phyronnaz/GoodVibes
 https://www.planetminecraft.com/texture-pack/snowsong-total-sound-and-music-resource-pack/
 
 Raylib: https://www.raylib.com/index.html
+
+raylib-nx: https://github.com/lucaskyer/raylib-nx
