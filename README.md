@@ -14,6 +14,7 @@ https://freesound.org/people/89o/sounds/434130/
 Texture Packs: 
 https://github.com/Phyronnaz/GoodVibes
 https://www.planetminecraft.com/texture-pack/snowsong-total-sound-and-music-resource-pack/
+https://github.com/Athemis/PixelPerfectionCE
 
 Raylib: https://www.raylib.com/index.html
 
