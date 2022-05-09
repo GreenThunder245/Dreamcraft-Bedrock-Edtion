@@ -25,6 +25,11 @@ https://www.planetminecraft.com/texture-pack/snowsong-total-sound-and-music-reso
 
 https://github.com/Athemis/PixelPerfectionCE
 
+GameEngine:
 Raylib: https://www.raylib.com/index.html
 
 raylib-nx: https://github.com/lucaskyer/raylib-nx
+
+collision detection and physics library:
+
+https://github.com/c-krit/ferox
